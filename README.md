@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sakthivel-saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sakthivel-saravanan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakthivel-saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthivel-saravanan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26535407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26535407" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sakthivel_s12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sakthivel_s12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sakthivelricky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sakthivelricky" height="30" width="40" /></a>
-<a href="/https://blogsforyousakthivel.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blogsforyousakthivel.wordpress.com/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sakthivel_s12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sakthivel_s12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sakthivelricky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakthivelricky" height="30" width="40" /></a>
+<a href="/blogsforyousakthivel.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="blogsforyousakthivel.wordpress.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
