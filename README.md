@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakthivel S</h1>
-<div align="center"> <img src="LinkedIn Banner.png"> </div>
+<div align="center"> <img src="Linkedin banner.png"> </div>
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
